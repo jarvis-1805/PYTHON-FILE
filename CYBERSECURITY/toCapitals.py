@@ -1,8 +1,0 @@
-g = open("word.txt", "r")
-d = open("words.txt", "w")
-x = g.read()
-#print(x.upper())
-cap = x.upper()
-d.write(cap)
-g.close()
-d.close()
