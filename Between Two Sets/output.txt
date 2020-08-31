@@ -1,0 +1,31 @@
+OUTPUT 1>
+
+Enter the no. of elements in array 1 : 2
+Enter the no. of elements in array 2 : 3
+
+Enter array 1 :
+Enter the element : 2
+Enter the element : 4
+
+Enter array 2 :
+Enter the element : 16
+Enter the element : 32
+Enter the element : 96
+
+No. of elements are : 3, those are [4, 8, 16]
+
+
+OUTPUT 2>
+
+Enter the no. of elements in array 1 : 2
+Enter the no. of elements in array 2 : 2
+
+Enter array 1 :
+Enter the element : 2
+Enter the element : 6
+
+Enter array 2 :
+Enter the element : 24
+Enter the element : 36
+
+No. of elements are : 2, those are [6, 12]
